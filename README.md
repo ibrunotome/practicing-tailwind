@@ -1,4 +1,4 @@
-# Practcing Tailwind CSS
+# Practicing Tailwind CSS
 
 Just improving and learning new things about tailwindcss
 
